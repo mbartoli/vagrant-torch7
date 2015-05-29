@@ -1,2 +1,2 @@
-# OCRopus-vagrant
-Vagrant for OCRopus
+# ocroxy-vagrant
+Vagrant for ocroxy
