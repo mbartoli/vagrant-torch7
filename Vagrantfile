@@ -68,4 +68,9 @@ Vagrant.configure(2) do |config|
   #   sudo apt-get update
   #   sudo apt-get install -y apache2
   # SHELL
+
+  # Shell provisioning
+  config.vm.provider "shell" do |s|
+    s.path = "provision/setup.sh"
+  end
 end
