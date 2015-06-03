@@ -1,2 +1,2 @@
-# ocroxy-vagrant
-Vagrant for ocroxy
+# torch7-vagrant
+Vagrant for torch7
